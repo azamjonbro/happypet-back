@@ -5,7 +5,7 @@ const options = {
   definition: {
     openapi: "3.0.0",
     info: {
-      title: "NAX API",
+      title: "Happy Pet API Documentation",
       version: "1.0.0"
     },
     servers: [
